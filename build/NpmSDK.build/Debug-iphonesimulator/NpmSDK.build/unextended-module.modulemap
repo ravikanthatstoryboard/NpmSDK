@@ -1,0 +1,10 @@
+framework module NpmSDK {
+  umbrella header "NpmSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module NpmSDK.__Swift {
+    exclude header "NpmSDK-Swift.h"
+}

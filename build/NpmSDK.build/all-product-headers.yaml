@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ravikanth/Library/Developer/Xcode/DerivedData/NpmSDK-hjjxrxawppwkswebnwewwtwvfrkg/Build/Products/Debug-iphonesimulator/NpmSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NpmSDK-Swift.h",
+          'external-contents': "/Users/ravikanth/Library/Developer/Xcode/DerivedData/NpmSDK-hjjxrxawppwkswebnwewwtwvfrkg/Build/Products/Debug-iphonesimulator/NpmSDK.framework/Headers/NpmSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NpmSDK.h",
+          'external-contents': "/Users/ravikanth/Desktop/GeoSpark Test/SDK/NpmSDK/NpmSDK/NpmSDK.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ravikanth/Library/Developer/Xcode/DerivedData/NpmSDK-hjjxrxawppwkswebnwewwtwvfrkg/Build/Products/Debug-iphonesimulator/NpmSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ravikanth/Desktop/GeoSpark Test/SDK/NpmSDK/build/NpmSDK.build/Debug-iphonesimulator/NpmSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

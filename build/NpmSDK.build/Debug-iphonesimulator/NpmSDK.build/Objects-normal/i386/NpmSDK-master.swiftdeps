@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swift-4.0.3-RELEASE)"
+options: "f52f8d914e6c5bfc6eaf678b132f6b9d"
+build_time: [1525687540, 798431000]
+inputs:
+  "/Users/ravikanth/Desktop/GeoSpark Test/SDK/NpmSDK/NpmSDK/NpmSDK.swift": [1525675110, 0]
